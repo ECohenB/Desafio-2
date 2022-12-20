@@ -1,0 +1,51 @@
+.header{
+
+    color: black;
+    font-size: 2em;
+    font: weight 400;
+    text-align: center;
+    padding: 20 em;
+    height: 24em;
+    background-image: url("../img/portada.jpg");
+    background-size:86%;
+    background-position:center;
+    margin-bottom: 2em;
+}
+
+.header h1 {
+    margin: 0px;
+    font-weight: 400;
+}
+
+
+.body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    background-color:darkred;
+    color:beige;
+    padding:2em;
+    margin-bottom: 2em;
+    
+}
+.peludos {
+    width: 100%;
+    margin: auto;
+    }
+.peludos td{
+    width: 50%;
+    padding: 1em;
+    }
+.peludos img{
+    width: 90%;
+    border: solid 1px rgb(78, 4, 4);
+    
+    }
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(185, 112, 41);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+  }
